@@ -1,0 +1,2 @@
+a<-4
+if(a%2==0){cat("the given number is even")}else{cat("the given number is odd")}
